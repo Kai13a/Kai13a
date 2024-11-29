@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Hello, I'm Kyle, currently a 4th year student studying Computer Science
+Hello, I'm Kyle,
 
-I'm a Computer Science student aiming to become a Mobile App Developer or a Full Stack Developer in the Future
+I'm a Computer Science graduate aiming to become a Mobile App Developer or a Full Stack Developer in the Future
 
 
 
